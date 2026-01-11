@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=jamieweavis&project=streaker&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=jamieweavis&project=streaker&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=jamieweavis&project=streaker&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=jamieweavis&project=streaker&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=jamieweavis&project=streaker&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=jamieweavis&project=streaker&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=jamieweavis&project=streaker&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=jamieweavis&project=streaker&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=jamieweavis&project=streaker&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=jamieweavis&project=streaker&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=jamieweavis&project=streaker&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=jamieweavis&project=streaker&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=jamieweavis&project=streaker&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=jamieweavis&project=streaker&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=jamieweavis&project=streaker&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=jamieweavis&project=streaker&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=jamieweavis&project=streaker&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=jamieweavis&project=streaker&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=jamieweavis&project=streaker&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=jamieweavis&project=streaker&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=jamieweavis&project=streaker&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # Streaker <img alt="Streaker Logo" align="right" width=40 height=40 alt="Screenshot" src="./.github/icons/icon.svg">
 
 Cross-platform GitHub contribution streak and statistic tracking menu bar application with reminder notification
